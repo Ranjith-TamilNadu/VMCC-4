@@ -1,0 +1,7 @@
+{
+  "name": "VMCC Facility Assistant",
+  "description": "An AI-powered chatbot to help with facility-related issues and questions at the VMCC campus. Features a voice assistant for hands-free interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
